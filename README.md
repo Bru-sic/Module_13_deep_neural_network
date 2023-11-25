@@ -4,10 +4,12 @@ Scope: Creating a binary classification model using a deep neural network.
 Author: Bruno Ivasic   
 Date: 27 November 2023
 
-# Submission (TO DO)
+# Submission
 Files associated with this solution:   
-* [Main Jupyter Lab Notebook: ./Submission/Code/credit_risk_resampling.ipynb](./Submission/Code/credit_risk_resampling.ipynb)
-* [Credit Risk Analysis Report](./Submission/Report/Credit_Risk_Analysis_Report.md)
+* [Main Jupyter Lab Notebook: venture_funding_with_deep_learning.ipynb](./Code/venture_funding_with_deep_learning.ipynb)
+* [Base model export file: AlphabetSoup.h5](./Resources/AlphabetSoup.h5)
+* [Alternative 1 model export file: AlphabetSoup_A1.h5](./Resources/AlphabetSoup_A1.h5)
+* [Alternative 2 model export file: AlphabetSoup_A2.h5](./Resources/AlphabetSoup_A2.h5)
 
 
 # Dependencies   
@@ -43,3 +45,5 @@ Links to further information:
 
 ---
 
+# Citations
+* doug (https://stats.stackexchange.com/users/438/doug), How to choose the number of hidden layers and nodes in a feedforward neural network?, URL (version: 2022-08-31): https://stats.stackexchange.com/q/1097

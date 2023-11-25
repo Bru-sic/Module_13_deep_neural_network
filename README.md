@@ -17,19 +17,16 @@ Files associated with this solution:
 * pip version 19.0+ (or 20.3+ for macOS) needed by TensorFlow 2 packages
 * Tensorflow 2 version 2.5.0+
 * scikit-learn version 1.2+
-* 
 
 # Installation / Setup
 
 The following are required:
 ```
-# Requires the latest pip
 pip install --upgrade pip
 
 pip install --upgrade scikit-learn
 
 pip install --upgrade tensorflow
-
 ```
 
 Note: additional steps are required if using an Apple Silicon Mac (see link below)
